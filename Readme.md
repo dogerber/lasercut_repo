@@ -19,7 +19,7 @@ Parametric design can be adjusted to arbitrary sizes. There are two different th
 
 
 Boards needed (with given parameters):
-- 5 mm thick 1x1 mm
+- 5 mm thick 328 x 367 mm
 - 3 mm thick 95 x 54 mm
 
 
