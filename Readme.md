@@ -1,6 +1,6 @@
 # Lasercut repository
 
-A random collection of lasercutting projects. `.dxf` are meant for lasercutting and where generated from the `.f3d` files with the help of the free plugin [DXF for Laser](https://apps.autodesk.com/FUSION/en/Detail/Index?id=7634902334100976871&os=Win64&appLang=en) for Fusion 360 and [deepnest.io](https://deepnest.io/)
+A collection of lasercutting projects. `.dxf` files are meant for lasercutting and were generated from the `.f3d` files with the help of the free plugin [DXF for Laser](https://apps.autodesk.com/FUSION/en/Detail/Index?id=7634902334100976871&os=Win64&appLang=en) for Fusion 360 and [deepnest.io](https://deepnest.io/).
 
 
 ## Tea bag rack
@@ -21,8 +21,6 @@ Parametric design can be adjusted to arbitrary sizes. There are two different th
 Boards needed (with given parameters):
 - 5 mm thick 1x1 mm
 - 3 mm thick 95 x 54 mm
-
-
 
 
 All files are in [/tea_bag_rack](/tea_bag_rack/)
