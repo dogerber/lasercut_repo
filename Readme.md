@@ -14,8 +14,9 @@ Parametric design can be adjusted to arbitrary sizes. There are two different th
 
 <details> 
   <summary>Parameters used (can be adapted)</summary>
-![](/tea_bag_rack/parameters_used.png)
+   <img src="https://github.com/dogerber/lasercut_repo/blob/main/tea_bag_rack/parameters_used.png" />
 </details><br>
+
 
 Boards needed (with given parameters):
 - 5 mm thick 1x1 mm
