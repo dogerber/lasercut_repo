@@ -19,8 +19,8 @@ Parametric design can be adjusted to arbitrary sizes. There are two different th
 
 
 Boards needed (with given parameters):
-- 5 mm thick 328 x 367 mm
-- 3 mm thick 95 x 54 mm
+- 5 mm thick 325 x 362 mm
+- 3 mm thick 151 x 267 mm
 
 
 All files are in [/tea_bag_rack](/tea_bag_rack/)
